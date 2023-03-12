@@ -1,0 +1,34 @@
+{
+  "name": "bibliotecadigital",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/comfortaa": "^0.2.2",
+    "@react-navigation/bottom-tabs": "^6.5.3",
+    "@react-navigation/native": "^6.1.2",
+    "expo": "~47.0.12",
+    "expo-barcode-scanner": "~12.1.0",
+    "expo-font": "~11.0.1",
+    "expo-permissions": "~14.0.0",
+    "expo-status-bar": "~1.4.2",
+    "firebase": "^9.17.2",
+    "firestore": "^1.1.6",
+    "metro-core": "^0.74.1",
+    "react": "18.1.0",
+    "react-native": "^0.70.7",
+    "react-native-gesture-handler": "*",
+    "react-native-screens": "*",
+    "start": "^5.1.0",
+    "vector-icons": "^0.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
